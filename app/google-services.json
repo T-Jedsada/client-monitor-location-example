@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "822303728399",
+    "firebase_url": "https://guide-chiang-rai.firebaseio.com",
+    "project_id": "guide-chiang-rai",
+    "storage_bucket": "guide-chiang-rai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822303728399:android:9274098d35d95983",
+        "android_client_info": {
+          "package_name": "com.guidechiangrai.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822303728399-33sgbkg2183suu8na4cuqdbv656ls032.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD11oNHczst4YjOzUvzz-wXo2M09qgV1w8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822303728399:android:3b9a8b93af5a0222",
+        "android_client_info": {
+          "package_name": "com.jedsada.clientsendlocation.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822303728399-33sgbkg2183suu8na4cuqdbv656ls032.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD11oNHczst4YjOzUvzz-wXo2M09qgV1w8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822303728399:android:9546153123183202",
+        "android_client_info": {
+          "package_name": "com.jedsada.clientmonitorlocation.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822303728399-33sgbkg2183suu8na4cuqdbv656ls032.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD11oNHczst4YjOzUvzz-wXo2M09qgV1w8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
